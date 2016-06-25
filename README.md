@@ -4,4 +4,4 @@ Document for openSUSE Summit 2016
 This file using layers in inkscape
 
 How to convert:  
-pdfunite $(ls Pages/*.pdf | sort -n) CFP_$DATE.pdf
+pdfunite $(ls Pages/*.pdf | sort -n) CFS_$DATE.pdf
